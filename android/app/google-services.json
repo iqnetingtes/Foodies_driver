@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297068689676",
+    "project_id": "uberdriver-154a5",
+    "storage_bucket": "uberdriver-154a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297068689676:android:de703b7fe1caa3289af129",
+        "android_client_info": {
+          "package_name": "com.foodies.driver.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogPmstVh3ctaQKecp5SrgRi0_e2vgYvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
